@@ -15,4 +15,5 @@
 ### [Mapa mental 2](https://github.com/AndyCortez98/FCFM/blob/main/MapaMental_2_1736472.pdf)
 ### [Visualización Base Principal](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
 ### [Visualización Base Secuandaria](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
-### [Segundo Avance del PIA](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Avance%20PIA%202_EQ_10.ipynb)
+### [Segundo Avance del PIA](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Avance%20PIA%202_EQ_10.ipynb)  
+### [Segundo Avance del PIA corregido](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA_II_Eq.10.ipynb)
