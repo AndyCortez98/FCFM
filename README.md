@@ -17,3 +17,7 @@
 ### [Visualización Base Secuandaria](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
 ### [Segundo Avance del PIA](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Avance%20PIA%202_EQ_10.ipynb)  
 ### [Segundo Avance del PIA corregido](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA_II_Eq.10.ipynb)
+### [Segundo Avance del PIA final](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA_2_10.ipynb)
+
+## FASE III
+### [Avance del póster](https://github.com/AndyCortez98/FCFM/blob/main/Estadisticas%20del%20suicidio.pdf)
