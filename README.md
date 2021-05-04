@@ -20,4 +20,4 @@
 ### [Segundo Avance del PIA final](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA__II__10.ipynb)
 ## FASE III
 ### [Avance del póster](https://github.com/AndyCortez98/FCFM/blob/main/Estadisticas%20del%20suicidio.pdf)
-### [Póster ](https://github.com/AndyCortez98/FCFM/blob/main/Estadisticas%20del%20suicidio.pdf)
+### [Póster ](https://github.com/AndyCortez98/FCFM/blob/main/Estad%C3%ADsticas%20de%20suicidio%20de%20la%20OMS%20(2).pdf)
